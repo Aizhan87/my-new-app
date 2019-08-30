@@ -1,7 +1,7 @@
 # my-new-app
 
 
-This a social media app that was created using Javascript. 
+This is a social media app that was created using Javascript. 
 
 dependencies that were used in creation of this app: 
     "@babel/core": "^7.5.5",
