@@ -29,3 +29,6 @@ dependencies that were used in creation of this app:
     "validator": "^11.1.0",
     "webpack": "^4.39.2",
     "webpack-cli": "^3.3.7"
+
+
+You can check out the app live here: https://mynewapp2019.herokuapp.com/
